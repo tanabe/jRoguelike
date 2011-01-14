@@ -1,0 +1,14 @@
+#world {
+  line-height: 1em;
+  font-size: 10px;
+  width: 400px;
+  height: 400px;
+  background-color: black;
+  font-family: "Courier 10 Pitch", Courier, monospace;
+  color: white;
+  position: relative;
+}
+
+#hero {
+  position: absolute;
+}
